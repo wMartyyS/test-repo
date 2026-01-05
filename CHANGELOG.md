@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
 - Initial repository setup
 - Basic documentation files
 
-## [1.0.0] - 2026-01-05
+## [1.0.0] - TBD
 
 ### Added
 - Initial release

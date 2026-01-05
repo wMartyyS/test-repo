@@ -43,4 +43,4 @@ You can:
 
 ### Who maintains this project?
 
-This project is maintained by the test-repo community.
+This project is maintained by wMartyyS and the test-repo community.
