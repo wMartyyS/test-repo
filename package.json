@@ -1,0 +1,11 @@
+{
+  "name": "ts-github-actions-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "../node_modules/.bin/tsc"
+  },
+
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
